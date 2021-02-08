@@ -1,0 +1,7 @@
+{
+  "name": "ITE63",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

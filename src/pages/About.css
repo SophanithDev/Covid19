@@ -1,0 +1,19 @@
+
+.pagetTite{
+  background-color:papayawhip;
+  text-align: center;
+  font-weight: bold;
+  color:black
+  
+}
+.card{
+  text-align: justify;
+  color: orange;
+  font: weight 14;
+}
+.nameCard{
+  font-size: 16;
+  color:red;
+  
+
+}

@@ -1,0 +1,34 @@
+ion-content ion-toolbar {
+    --background: translucent;
+  }
+  aion-content {
+    --background: translucent;
+  }
+  
+  ion-toolbar {
+    --background: var(--ion-color-primary);
+  }
+  
+  .appIcon {
+    width: 30px;
+  }
+  
+  .appTitle {
+    font-weight: bolder;
+  }
+  
+  .appDate {
+    text-align: right;
+    font-weight: bolder;
+  }
+  
+  .pageTitle {
+    color: whitesmoke;
+    text-align: center;
+  }
+  
+  .guidlineImages {
+    width: 100%;
+    height: 200px;
+  }
+  

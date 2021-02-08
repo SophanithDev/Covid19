@@ -1,0 +1,43 @@
+ion-content {
+    --background: translucent;
+  }
+  
+  ion-toolbar {
+    --background: var(--ion-color-primary);
+  }
+  
+  .appIcon {
+    width: 30px;
+  }
+  
+  .appTitle {
+    font-weight: bolder
+  }
+  
+  .appDate {
+    text-align: right;
+    font-weight: bold;
+   
+  }
+  
+  .countryTitle {
+    color: rgb(0, 0, 0);
+    text-align: right;
+  }
+  
+  .selectTitle {
+    color: coral;
+    text-align:left;
+  }
+  
+  ion-select {
+    padding: 0px;
+    max-width: 80%;
+  }
+  
+  .changeButton {
+    color: white;
+    text-align: center;
+    font-size: 12px;
+  }
+  
